@@ -1,4 +1,4 @@
-package com.example.tip_calculator
+package com.raywenderlich
 
 import io.flutter.embedding.android.FlutterActivity
 
