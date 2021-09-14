@@ -4,6 +4,10 @@ analyzer:
   exclude:
     - build/**
     - lib/**.g.dart
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+
   errors:
     missing_return: error
     dead_code: error
