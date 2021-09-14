@@ -1,0 +1,4 @@
+#Tue Sep 14 12:04:29 IST 2021
+base.0=/home/ravgeetdhillon/Public/company/personal/blogs/raywenderlich/tip_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

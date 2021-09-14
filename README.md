@@ -12,24 +12,6 @@ These things are required before setting up the project.
 - Git
 - Flutter [Read Guide](https://flutter.dev/docs)
 
-## Getting Started
-
-Follow these instructions to get the project up and running.
-
-```bash
-# clone the repo
-git clone https://github.com/ravgeetdhillon/flutter-tip-calculator
-
-# rename to match the package name
-mv -r flutter-tip-calculator tip_calculator
-
-# change directory
-cd tip_calculator
-
-# install dependencies
-flutter pub get
-```
-
 ## Tech Stack
 
 * [Flutter](https://flutter.dev/)
